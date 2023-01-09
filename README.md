@@ -1,4 +1,4 @@
-# csgo-round-winner-prediction
+# Round winner prediction in the first-person-shooter game Counter-Strike: Global Offensive (CS:GO)
  
 This is a supervised learning project to predict the round winner in the game Counter-Strike: Global Offensive (CS:GO). This was originally done for a university module.
 
