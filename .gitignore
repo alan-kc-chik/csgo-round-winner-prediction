@@ -151,3 +151,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 esta-de_dust2-aggregated.csv.bz2
+ESTA_JSON_Parsing.ipynb
